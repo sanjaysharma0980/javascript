@@ -1,2 +1,2 @@
 # javascript
-javascript nodes
+javascript nodes basics
